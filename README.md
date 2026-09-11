@@ -1,3 +1,14 @@
+## 👥 Projecte grupal
+
+Projecte dessenvolupat en colaboració amb:
+
+- Rubén Lora | [devrubeen](https://github.com/devrubeen) |
+- Eric Gómez | 
+- Julie Villegas | 
+- Sara Martínez | 
+
+Realitzat durant [Cicle Formatiu grau superior Dessenvolupament d'aplicacions Multiplataforma].
+
 # Conexus Hub - Plataforma Educativa Integral
 
 ## Equip format per:
