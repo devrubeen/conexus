@@ -11,12 +11,6 @@ Realitzat durant [Cicle Formatiu grau superior Dessenvolupament d'aplicacions Mu
 
 # Conexus Hub - Plataforma Educativa Integral
 
-## Equip format per:
-* Sara Martínez
-* Rubén Lora 
-* Julie Villegas
-* Eric Gómez
-
 ## Descripció del Projecte
 
 Conexus Hub és una plataforma educativa integral dissenyada per a facilitar la comunicació i la gestió en el centre educatiu. El projecte connecta estudiants, professors, personal administratiu/tecnics i serveis de cantina en una única plataforma web moderna i intuïtiva.
